@@ -14,11 +14,11 @@ Matlab 2017a
 
 MATLAB 默认用户工作文件夹：
 
-    * Windows 平台 - %USERPROFILE%/Documents/MATLAB。
+* Windows 平台 - %USERPROFILE%/Documents/MATLAB。
 
-    * Mac 平台 - $home/Documents/MATLAB。
+* Mac 平台 - $home/Documents/MATLAB。
 
-    * Linux 平台 - $home/Documents/MATLAB（如果 $home/Documents 存在）。
+* Linux 平台 - $home/Documents/MATLAB（如果 $home/Documents 存在）。
 
 ## 特性
 
